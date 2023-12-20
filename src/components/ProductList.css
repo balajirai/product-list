@@ -1,0 +1,16 @@
+body {
+    /* background-color: #162230; */
+    background-color: #1A1A1A;
+    color: #fff;
+}
+
+.custom-navbar {
+    background-color: #282828;
+}
+.custom-footer{
+    background-color: #282828;
+}
+footer{
+    font-size: small;
+    background-color: #282828;
+}
