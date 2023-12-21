@@ -1,6 +1,62 @@
-# Getting Started with Create React App
+# Product Listing UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Web Application for product listing.
+
+---
+
+<p align="center">
+<img src="src/images/home.png">
+</p>
+
+
+<p align="center">
+<img src="src/images/expand.png">
+</p>
+
+---
+
+## Features:
+
+- `Home Page` with Product Details.
+- Details contain `Name` `Images` `Rating` and `Description`.
+- Auto Sliding `Product Images` on hover.
+- Shows complete details along with description in a `Expanded Card` on clicking.
+
+---
+
+## Technologies used:
+
+- React js
+- Bootstrap
+
+---
+
+## Contributors
+
+- Balaji
+
+---
+
+## License & Copyright
+
+Copyright [©balaji](https://github.com/balajirai)
+
+Licensed under the [MIT License](LICENSE)
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Getting Started with Create React App
+
+This project is using tailwind css with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -67,4 +123,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
